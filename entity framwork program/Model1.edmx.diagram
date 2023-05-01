@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a7efe3fe203c468f8926ea8f8f94914b" Name="Diagram1">
+        <EntityTypeShape EntityType="TCCModel.Department" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TCCModel.Exam" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TCCModel.StudentMark" Width="1.5" PointX="7.5" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TCCModel.Student" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TCCModel.SubjectLecture" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TCCModel.Subject" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="TCCModel.sysdiagram" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="TCCModel.FK_Students_Departments" ManuallyRouted="false" />
+        <AssociationConnector Association="TCCModel.FK_Subjects_Subjects" ManuallyRouted="false" />
+        <AssociationConnector Association="TCCModel.FK_Exams_Subjects" ManuallyRouted="false" />
+        <AssociationConnector Association="TCCModel.FK_StudentMarks_Students" ManuallyRouted="false" />
+        <AssociationConnector Association="TCCModel.FK_StudentMarks_Students1" ManuallyRouted="false" />
+        <AssociationConnector Association="TCCModel.FK_SubjectLectures_SubjectLectures" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

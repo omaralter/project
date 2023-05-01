@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\entity framwork program.exe.config
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\entity framwork program.exe
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\entity framwork program.pdb
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity framwork program.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity_framwork_program.Form1.resources
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity_framwork_program.Properties.Resources.resources
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity framwork program.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity framwork program.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity framwork program.csproj.CopyComplete
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity framwork program.exe
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity framwork program.pdb
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity_framwork_program.frm_department.resources
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity_framwork_program.frm_student.resources
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity_framwork_program.frm_subject.resources
+C:\Users\HP\source\repos\entity framwork program\entity framwork program\obj\Debug\entity_framwork_program.frm_subjectlecture.resources
